@@ -1,8 +1,8 @@
 Reflexión sobre decisiones responsables – Semana 3 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Carlos Andres Cassares Rojas
+Fecha: 05/05/2026
+Nombre de la rama: carlos_cassares
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -18,4 +18,10 @@ En tu respuesta menciona al menos dos de estas ideas:
 - responsabilidad digital
 - convivencia en internet
 
-Respuesta:
+Respuesta: 
+Actuar con responsabilidad digital es fundamental para que nuestras interacciones refuercen el tejido social, 
+en lugar de destruirlo. Cuando nos comprometemos con la verificación de información, 
+impedimos ser un vector de datos erróneos que confundirían a la sociedad. 
+Esta práctica no sólo protege nuestra reputación, 
+sino que es la base para construir una sólida confianza comunitaria 
+y una convivencia en internet mucho más sana y constructiva para todos.
